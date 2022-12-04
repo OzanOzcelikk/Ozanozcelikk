@@ -89,14 +89,6 @@ I'm a full stack developer. Basically, I develop myself in React and Django tech
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
