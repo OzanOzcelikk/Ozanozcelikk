@@ -19,14 +19,15 @@
 
 ### Glad to see you here!  
 
-I'm a full stack developer. Basically, I develop myself in React and Django technologies. I am also developing mobile applications using Flutter. For more information, you can review my projects.  
+Software Developer with 3 years of experience in front-end technologies like React, Vue, Next.js, and Nuxt.js.
+Passionate about mobile development with Swift and React Native, focusing on user experience.
   
 
 <br/>  
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on React  
+- 🔭 I’m currently working on React.js, Vue.js Swift, React-native
   
 
 - 🌱 I’m currently learning Django  
