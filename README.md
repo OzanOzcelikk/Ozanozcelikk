@@ -28,10 +28,6 @@ Passionate about mobile development with Swift and React Native, focusing on use
 
 ## Rapidfire  
 - 🔭 I’m currently working on React.js, Vue.js Swift, React-native
-  
-
-- 🌱 I’m currently learning Django  
-  
 
 - ❓ Ask me about anything about Frontend technologies  
   
